@@ -19,14 +19,14 @@ This project performs an exploratory data analysis (EDA) on a customer churn dat
 To get started with this project, clone the repository and install the required packages.
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
+git clone https://github.com/DominicOcharo/Customer-Churn-Analysis.git
 cd customer-churn-analysis
 pip install -r requirements.txt
 ```
 
 ## Dataset
 
-The dataset used for this analysis is `WA_Fn-UseC_-Telco-Customer-Churn.csv`. It contains various columns related to customer demographics, account information, and service usage, such as `gender`, `SeniorCitizen`, `Partner`, `Dependents`, `tenure`, `PhoneService`, `MultipleLines`, `InternetService`, `OnlineSecurity`, `OnlineBackup`, `DeviceProtection`, `TechSupport`, `StreamingTV`, `StreamingMovies`, `Contract`, `PaperlessBilling`, `PaymentMethod`, `MonthlyCharges`, `TotalCharges`, and `Churn`.
+The dataset used for this analysis is `WA_Fn-UseC_-Telco-Customer-Churn.csv` from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data). It contains various columns related to customer demographics, account information, and service usage, such as `gender`, `SeniorCitizen`, `Partner`, `Dependents`, `tenure`, `PhoneService`, `MultipleLines`, `InternetService`, `OnlineSecurity`, `OnlineBackup`, `DeviceProtection`, `TechSupport`, `StreamingTV`, `StreamingMovies`, `Contract`, `PaperlessBilling`, `PaymentMethod`, `MonthlyCharges`, `TotalCharges`, and `Churn`.
 
 ## Exploratory Data Analysis
 
