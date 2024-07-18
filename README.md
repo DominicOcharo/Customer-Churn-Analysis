@@ -12,7 +12,6 @@ This project performs an exploratory data analysis (EDA) on a customer churn dat
 - [Findings](#findings)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
